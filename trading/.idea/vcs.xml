@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/algorithmic_trading" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/algorithmic_trading/experiments" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/algorithmic_trading/experiments/automated-momentum-trading-experiment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/algorithmic_trading/pycryptobot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deriv_trader" vcs="Git" />
+  </component>
+</project>
